@@ -3,7 +3,7 @@ import { useParams, useNavigate } from 'react-router-dom';
 import './MovieDetailPage.css';
 import './App.css';
 
-const TMDB_API_KEY = "397abbabeb0c47f060cf654d072c0c15";
+const TMDB_API_KEY = ;
 const TMDB_BASE_URL = 'https://api.themoviedb.org/3';
 
 const MovieDetailPage = () => {
