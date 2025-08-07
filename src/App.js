@@ -9,7 +9,7 @@ import Auth from "./components/Auth";
 import { authService } from "./services/authService";
 import TextPressure from "./TextPressure";
 
-const TMDB_API_KEY = "" ;
+const TMDB_API_KEY = ;
 const TMDB_BASE_URL = "https://api.themoviedb.org/3";
 
 const App = () => {
