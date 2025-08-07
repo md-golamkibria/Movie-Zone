@@ -1,0 +1,9 @@
+.tilted-card-container {
+  perspective: 1000px;
+  transform-style: preserve-3d;
+  display: inline-block; /* or block, depending on layout */
+}
+
+.tilted-card-content {
+  /* Add any specific styling for the content inside the tilted card */
+}
